@@ -12,9 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: AssetImage(
-              'assets/diamond1.png',
-            ),
+            image: AssetImage('assets/diamond1.png'),
           ),
         ),
       ),
